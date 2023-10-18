@@ -3,4 +3,4 @@ requests
 matplotlib
 numpy
 pandas
-openpyx1
+openpyxl
